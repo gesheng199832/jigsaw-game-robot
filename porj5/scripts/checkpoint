@@ -1,0 +1,4 @@
+model_checkpoint_path: "weights"
+all_model_checkpoint_paths: "weights"
+model_checkpoint_path: "0522_weights"
+all_model_checkpoint_paths: "0522_weights"
