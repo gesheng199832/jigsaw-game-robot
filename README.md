@@ -52,3 +52,4 @@ $ cd ~/catkin_ws/src/jigsaw-game-robot/porj5/scripts
 $ python nn.py
 $ python main.py
 ```
+## project video [here](https://www.bilibili.com/video/av54739320)
