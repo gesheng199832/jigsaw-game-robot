@@ -53,3 +53,5 @@ $ python nn.py
 $ python main.py
 ```
 ## project video [here](https://www.bilibili.com/video/av54739320)
+ectory
+ps: sorry for wrong spelling of "proj5", if you want to rename the directory, please also re-edit the package.xml file 
